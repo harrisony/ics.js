@@ -23,7 +23,7 @@
     "demo"
   ],
   "dependencies": {
-    "Blob.js": "eligrey/Blob.js",
-    "FileSaver": "*"
+    "blob-polyfill": "bjornstar/blob-polyfill",
+    "file-saver.js": "Teleborder/FileSaver.js"
   }
 }
