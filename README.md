@@ -51,7 +51,6 @@ Dependencies
 ------------
 The tool uses 2 libraries from the following projects:
 * [FileSaver.js](https://github.com/eligrey/FileSaver.js)
-* [Blob.js](https://github.com/eligrey/Blob.js)
 
 I've compressed them and included them into the source for the normal file.  Other variations are available in the repo.
 
@@ -60,16 +59,7 @@ If you want IE to allow for either opening documents as well as saving documents
 Supported Browsers
 ------------------
 
-| Browser        | Dependancies |
-| -------------- | ------------ |
-| Firefox 20+    | [FileSaver.js](https://github.com/eligrey/FileSaver.js) |
-| Firefox ≤ 19   | [FileSaver.js](https://github.com/eligrey/FileSaver.js), [Blob.js](https://github.com/eligrey/Blob.js) |
-| Chrome         | [FileSaver.js](https://github.com/eligrey/FileSaver.js) |
-| Chrome for Android v28+ | [FileSaver.js](https://github.com/eligrey/FileSaver.js) |
-| IE 10+         | [FileSaver.js](https://github.com/eligrey/FileSaver.js)         |
-| Opera Next     | [FileSaver.js](https://github.com/eligrey/FileSaver.js) |
-| Opera < 15     | [FileSaver.js](https://github.com/eligrey/FileSaver.js), [Blob.js](https://github.com/eligrey/Blob.js) |
-| Safari ≤ 6     | [FileSaver.js](https://github.com/eligrey/FileSaver.js), [Blob.js](https://github.com/eligrey/Blob.js) |
+Modern ones
 
 
 Credits
